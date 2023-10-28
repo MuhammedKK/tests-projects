@@ -1,0 +1,14 @@
+##############
+WHAT I LEARNED
+##############
+
+1- Lazy Loading by using :
+    - React.lazy()
+    - React.Suspense
+
+    - it's allow me to show somthing while content responding into my app to better UX
+
+
+####################
+WHAT I'M GONNA LEARN
+####################
